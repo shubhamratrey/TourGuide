@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#132662</color>
+    <color name="colorPrimaryDark">#132662</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg_grey">#8b2e2e2e</color>
+    <color name="bg_et">#F1F2F6</color>
+    <color name="object">#A2A9C5</color>
+    <color name="txt">#9FA5BB</color>
+    <color name="black_overlay">#9b000000</color>
+    <color name="text">#aeb2c1</color>
+
+
+    <color name="btnEnabled">#8EBBEA</color>
+    <color name="btnDisabled">#aeb2c1</color>
+
+</resources>
